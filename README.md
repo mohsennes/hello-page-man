@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## سلام به وب سایت من خوش امدید
 
 You can use the [editor on GitHub](https://github.com/mohsennes/hello-page-man/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
